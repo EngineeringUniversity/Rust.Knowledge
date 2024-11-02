@@ -1,0 +1,1 @@
+- [Why I Chose Rust Over Zig](https://youtu.be/Vxq6Qc-uAmE)
